@@ -13,5 +13,5 @@
 <hr>
 
 ## Sample files
-* [data.db](https://github.com/hoosnick/picodebot/blob/b39d813e4ba9b724a77ece7be809dad26c53a56b/config.py) - sample database
-* [sample.service](https://github.com/hoosnick/picodebot/blob/b39d813e4ba9b724a77ece7be809dad26c53a56b/config.py) - sample service for deploying in vps
+* [data.db](https://github.com/hoosnick/picodebot/blob/master/data.db) - sample database
+* [sample.service](https://github.com/hoosnick/picodebot/blob/master/sample.service) - sample service for deploying in vps
