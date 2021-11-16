@@ -1,7 +1,7 @@
 FROM python:3.9
 
-RUN git clone https://github.com/MarineBots/picodebot.git root/MarineBots
-WORKDIR root/MarineBots/
+RUN git clone https://github.com/realeu/picodebot.git root/realeu
+WORKDIR root/realeu/
 
 RUN pip install -r requirements.txt
 
