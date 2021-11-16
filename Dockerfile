@@ -5,4 +5,4 @@ WORKDIR root/MarineBots/
 
 RUN pip install -r requirements.txt
 
-CMD ["python3", "-m", "main.py"]
+CMD ["python3", "main.py"]
