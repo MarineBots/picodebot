@@ -5,6 +5,6 @@ WORKDIR root/marinebots/
 
 RUN pip install -r requirements.txt
 
-COPY config.example config.py
+COPY config.py config.example
 
 CMD ["python3", "main.py"]
